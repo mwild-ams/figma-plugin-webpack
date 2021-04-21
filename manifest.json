@@ -2,5 +2,6 @@
   "name": "figma-plugin-webpack",
   "id": "966700289751083004",
   "api": "1.0.0",
-  "main": "code.js"
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
 }
